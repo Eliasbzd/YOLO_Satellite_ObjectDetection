@@ -14,8 +14,8 @@ In the aftermath of a catastrophe, the utilization of multiple satellite images 
 
 This endeavor represents a crucial step forward in disaster response and recovery efforts, facilitating the rapid assessment of affected areas and the prioritization of rescue and rebuilding operations.
 
-  ![Screen](picture2.png)
-  
+  ![Screen](picture1.png)
+
 ## How to Recompute
 
 To recompute the project, follow these steps:
@@ -33,7 +33,7 @@ The primary objective of this project is to create a Tropical storm damage detec
 
 
 
-  ![Screen](picture1.png)
+  ![Screen](picture2.png)
 
 
 ## Pipeline
