@@ -13,7 +13,9 @@ In the aftermath of a catastrophe, the utilization of multiple satellite images 
 - `"damagedcommercialbuilding"` 
 
 This endeavor represents a crucial step forward in disaster response and recovery efforts, facilitating the rapid assessment of affected areas and the prioritization of rescue and rebuilding operations.
+
   ![Screen](picture2.png)
+  
 ## How to Recompute
 
 To recompute the project, follow these steps:
