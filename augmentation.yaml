@@ -1,0 +1,6 @@
+inp_img_pth : datasets/train
+inp_lab_pth : datasets/train
+out_img_pth : datasets_aug/train
+out_lab_pth : datasets_aug/train
+transformed_file_name : aug_out
+CLASSES : ["undamagedresidentialbuilding", "undamagedcommercialbuilding", "damagedresidentialbuilding", "damagedcommercialbuilding"]

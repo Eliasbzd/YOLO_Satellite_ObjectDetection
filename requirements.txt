@@ -1,0 +1,13 @@
+# This file can be used to install necessary packages in an environment using the command :
+# pip install -r requirements.txt
+
+numpy
+opencv-python-headless
+Pillow
+torch
+ultralytics
+#zipfile
+ruamel
+ruamel.yaml
+albumentations
+opencv-python

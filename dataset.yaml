@@ -1,0 +1,6 @@
+path: /Users/elias/Documents/GitHub/EY_Challenge
+train: datasets/train
+val: datasets/val
+nc: 4
+names: [undamagedresidentialbuilding, undamagedcommercialbuilding, damagedresidentialbuilding,
+  damagedcommercialbuilding]
