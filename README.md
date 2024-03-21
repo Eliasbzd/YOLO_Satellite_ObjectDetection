@@ -1,7 +1,9 @@
 
 ![Bannière](logo.png)
 
-# EY_Challenge
+# Satellite Object Detection with YOLOv8
+
+
 
 ## Introduction
 In the aftermath of a catastrophe, the utilization of multiple satellite images captured over time can significantly aid in the identification of affected areas. This challenge is focused on employing image object detection techniques to identify damaged residential and commercial buildings. Leveraging an unlabeled dataset generously provided by EY, we  labeled 70 images and employed various data augmentation techniques such as rotation and brightness adjustment. We utilized these annotated images to train YOLOv8 models, enabling the detection of damaged buildings and the classification into four distinct classes:
